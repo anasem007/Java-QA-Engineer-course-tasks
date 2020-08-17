@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="014d3755-640c-4dd7-9bea-c2552c461f64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/DriverSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/DriverSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-smoke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng-smoke.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,45 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.HomePageTest.tunePageTitle">
+    <configuration name="HomePageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskFirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.HomePageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.tunePageTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskFirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.HomePageTest" />
+      <option name="METHOD_NAME" value="tunePageTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HomePageTest.tunePageTitle" />
+        <item itemvalue="JUnit.HomePageTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -68,7 +108,10 @@
       <workItem from="1597250953466" duration="473000" />
       <workItem from="1597326403910" duration="169000" />
       <workItem from="1597329780243" duration="1607000" />
-      <workItem from="1597399505898" duration="518000" />
+      <workItem from="1597399505898" duration="8645000" />
+      <workItem from="1597425402379" duration="322000" />
+      <workItem from="1597577752963" duration="287000" />
+      <workItem from="1597661727799" duration="3108000" />
     </task>
     <servers />
   </component>
@@ -76,14 +119,43 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="59" y="79" width="1279" height="719" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1597665790305">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="59" y="79" width="1279" height="719" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/43.23.1397.877@43.23.1397.877" timestamp="1597665790305" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1597668444961">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597668444961" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1597666453851" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1597668444958">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597668444958" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1597666453836" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1597668444957">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597668444957" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1597666453835" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1597668444959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597668444959" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1597666453848" />
     <state x="308" y="193" key="IDE.errors.dialog" timestamp="1597251045615">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="193" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1597251045615" />
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1597399506111">
+    <state x="258" y="113" key="Maven.ArtifactSearchDialog" timestamp="1597416323507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1597399506111" />
+    <state x="258" y="113" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1597416323507" />
+    <state x="408" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1597662043445">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1597577755427" />
     <state x="407" y="300" key="com.intellij.ide.util.TipDialog/42.23.1398.877@42.23.1398.877" timestamp="1597326412497" />
+    <state x="408" y="300" key="com.intellij.ide.util.TipDialog/43.23.1397.877@43.23.1397.877" timestamp="1597662043444" />
   </component>
 </project>
